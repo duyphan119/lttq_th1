@@ -1,0 +1,162 @@
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\LTTQ_Buoi9.exe.config
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\LTTQ_Buoi9.exe
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\LTTQ_Buoi9.pdb
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.Properties.Resources.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.GenerateResource.cache
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\RdlCompile.cache
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\RdlCompile.compiled
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.CoreCompileInputs.cache
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.exe
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.pdb
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\EnvDTE.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\stdole.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\Microsoft.MSXML.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.CopyComplete
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.TrangChu.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucTrangChu.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucQuanLyDonHang.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucQuanLySanPham.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucViDu1cs.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucViDu2.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\EntityFramework.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\EntityFramework.xml
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.BaoCao.resources
+D:\Documents\Cs\18-6051071019-Phan Khanh Duy\LTTQ_Buoi9\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.AssemblyReference.cache
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\LTTQ_Buoi9.exe.config
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\LTTQ_Buoi9.exe
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\LTTQ_Buoi9.pdb
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\EntityFramework.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\EnvDTE.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\stdole.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\Microsoft.MSXML.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\EntityFramework.xml
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.AssemblyReference.cache
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.BaoCao.resources
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.Properties.Resources.resources
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.TrangChu.resources
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucQuanLyDonHang.resources
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucQuanLySanPham.resources
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucTrangChu.resources
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.GenerateResource.cache
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\RdlCompile.cache
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\RdlCompile.compiled
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.CoreCompileInputs.cache
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.csproj.CopyComplete
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.exe
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.pdb
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ThongKe.resources
+D:\Documents\Cs\New folder\dasdqweqwe-main\LTTQ_Buoi9\obj\Debug\LTTQ_Buoi9.ucThongKe.resources

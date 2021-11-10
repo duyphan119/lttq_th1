@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="lttq_buoi9Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="lttq_buoi9Entities2" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="sp_ThongKeTheoNgayTrongThang" ReturnType="Collection(lttq_buoi9Model.sp_ThongKeTheoNgayTrongThang_Result)">
+      <Parameter Name="thang" Mode="In" Type="Int32" />
+      <Parameter Name="nam" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="sp_ThongKeTheoNgayTrongThang_Result">
+    <Property Type="Int32" Name="ngay" Nullable="true" />
+    <Property Type="Decimal" Name="Column1" Nullable="true" Precision="38" Scale="0" />
+  </ComplexType>
+</Schema>

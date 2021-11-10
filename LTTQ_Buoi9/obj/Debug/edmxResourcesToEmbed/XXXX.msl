@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="lttq_buoi9ModelStoreContainer" CdmEntityContainer="lttq_buoi9Entities2">
+    <FunctionImportMapping FunctionImportName="sp_ThongKeTheoNgayTrongThang" FunctionName="lttq_buoi9Model.Store.sp_ThongKeTheoNgayTrongThang">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="lttq_buoi9Model.sp_ThongKeTheoNgayTrongThang_Result">
+          <ScalarProperty Name="ngay" ColumnName="ngay" />
+          <ScalarProperty Name="Column1" ColumnName="Column1" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
